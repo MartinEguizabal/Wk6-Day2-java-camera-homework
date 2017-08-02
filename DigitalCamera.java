@@ -1,3 +1,7 @@
+// class Digital Camera extends Camera implements Printable {
+  
+// }
+
 import java.util.*;
 
 class DigitalCamera {

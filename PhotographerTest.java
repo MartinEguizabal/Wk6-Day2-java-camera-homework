@@ -24,4 +24,18 @@ public class PhotographerTest {
     photographer.addCamera(analogueCamera);
     assertEquals(1, photographer.countCameras());
   }
+
+  // @Test
+  // public void canPrintAllCameras(){
+  //   photographer.PrintAllCameras();
+  //   assertEquals()
+  // }
+
+  // @Test
+  // public void canPrintAllCameras(){
+  //   photographer.addCamera(analogueCamera);
+  //   photographer.addCamera(digitalCamera);
+  //   AnalogueCamera cameras = photographer.printAllCameras
+  //   assertEquals()
+  // }
 }

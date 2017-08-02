@@ -15,4 +15,15 @@ class Photographer{
     this.cameras.add(camera);
   }
 
+  public String printAllCameras(){
+    for (int i = 0; i < cameras.length; i++) {
+      if(cameras[i] == digitalCamera){
+        return digitalCamera.printDetails;
+      // if(cameras[i] == analogueCamera){
+      //   return analogueCamera.printDetails;
+      // }
+      }
+    }
+  }
+
 }

@@ -1,3 +1,7 @@
+// class AnalogueCamera extends Camera implements Printable {
+  
+// }
+
 import java.util.*;
 
 class AnalogueCamera implements Printable {
